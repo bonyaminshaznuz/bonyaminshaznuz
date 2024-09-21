@@ -10,7 +10,7 @@
 
 ## 🌱  My Skills
 
-### Programming languages
+### 😁 Programming languages
 
 <p align="left"> 
   &emsp; 
@@ -40,7 +40,7 @@
    &emsp;
 </p>
 
-###  Development
+### 😁  Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -59,7 +59,7 @@
  
 </p>
 
-### Databases & Cloud Hosting
+### 😁 Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
