@@ -3,9 +3,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Innovator;Data+Science+Enthusiast;Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+
 <hr/>
-<h4 align="center"I am Kazi Bony Amin, a CSE undergraduate and Level 4 web developer specializing in Django, Laravel, and WordPress. I have developed a diverse portfolio of scalable, user-centric web solutions. I am also pursuing a diploma in data science, where I focus on machine learning and artificial intelligence, with a strong research interest in the intersection of data science, business, and management. As the author of "Growing Business with IT: A Modern Toolkit for Success," I provide insights into how technology can drive business growth. I am committed to advancing innovation in both web development and data science.</h4>
+<h4 align="center"I am Kazi Bony Amin, a CSE undergraduate and Level 4 web developer specializing in Django, Laravel, and WordPress. I have developed a diverse portfolio of scalable, user-centric web solutions. I am also pursuing a diploma in data science, where I focus on machine learning and artificial intelligence, with a strong research interest in the intersection of data science, business, and management. As the author of Growing Business with IT: A Modern Toolkit for Success, I provide insights into how technology can drive business growth. I am committed to advancing innovation in both web development and data science.</h4>
 <br>
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
