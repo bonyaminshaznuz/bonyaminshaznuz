@@ -72,6 +72,9 @@
   &emsp;
 </p>
 
+## Github Stats
+![Kazi Bony Amin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonyaminshaznuz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ## Let's Connect
 <p align="center">
   <a href="https://shaznuz.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
