@@ -72,5 +72,16 @@
   &emsp;
 </p>
 
+## Let's Connect
+<p align="center">
+  <a href="https://shaznuz.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:shaznuz.com@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/bonyaminshaznuz/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/shaznuzontheway/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/bonyaminshaznuz"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+
+<hr/>
+
 * Credit: [Kazi Bony Amin](https://shaznuz.com/)
 * Last Edited on: 21/09/2024
