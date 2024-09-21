@@ -8,7 +8,7 @@
 <br>
 
 
-##  My Skills
+## 🌱  My Skills
 
 ### Programming languages
 
@@ -72,10 +72,10 @@
   &emsp;
 </p>
 
-## Github Stats
+## 🌱 Github Stats
 ![Kazi Bony Amin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonyaminshaznuz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-## Let's Connect
+## 🌱 Let's Connect
 <p align="center">
   <a href="https://shaznuz.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:shaznuz.com@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
