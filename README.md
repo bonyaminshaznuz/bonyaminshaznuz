@@ -37,10 +37,6 @@
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
-  &emsp;
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img alt="Typescript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat"/>
-  </a>
 </p>
 
 ### 👉  Development
@@ -57,18 +53,6 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
-   &emsp;
-  <a href="https://react.dev/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react&logoColor=white"/>
-  </a>
-   &emsp;
-    <a href="https://react.dev/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  </a>
-  &emsp;
-    <a href="https://tailwindcss.com/" target="_blank"> 
-    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  </a>
    
  
 </p>
@@ -79,8 +63,6 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
