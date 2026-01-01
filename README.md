@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://react.shaznuz.com/image/pp.jpg" alt="MasterHead" width="150" style="border-radius:50%;" />
+  <img src="https://react.shaznuz.com/image/pp.jpg" alt="MasterHead" " />
 </p>
 
 <h1 align="center">
@@ -54,11 +54,7 @@ Full-Stack Web Developer specializing in **Django** and **React.js**, building *
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bonyaminshaznuz&layout=compact&theme=dark" alt="Top Languages" width="600"/>
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=bonyaminshaznuz&theme=react-dark&area=true" alt="GitHub Activity Graph" width="700"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bonyaminshaznuz&layout=compact&theme=dark" alt="Top Languages" width="500"/>
 </p>
 
 ---
