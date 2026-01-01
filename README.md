@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://react.shaznuz.com/image/pp.jpg" alt="MasterHead" />
+  <img src="https://react.shaznuz.com/image/pp.jpg" alt="MasterHead" height="250" />
 </p>
 
 <h1 align="center">
