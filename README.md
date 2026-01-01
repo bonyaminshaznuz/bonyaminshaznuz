@@ -89,7 +89,7 @@ Full-Stack Web Developer with strong expertise in Django and practical experienc
 
 <p align="center">
   <!-- Contribution Calendar -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=bonyaminshaznuz&theme=react-dark&area=true" alt="GitHub Activity Graph" />
+  [<img src="https://activity-graph.herokuapp.com/graph?username=bonyaminshaznuz&theme=react-dark&area=true" alt="GitHub Activity Graph" />](https://github.com/bonyaminshaznuz/github-readme-stats?tab=readme-ov-file#language-stats-algorithm.)
 </p>
 
 ## 🍃 Let's Connect
