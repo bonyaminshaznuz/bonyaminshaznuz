@@ -39,6 +39,7 @@ Full-Stack Web Developer specializing in **Django** and **React.js**, building *
   <a href="https://getbootstrap.com"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" /></a>
   <a href="https://tailwindcss.com"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" /></a>
   <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" /></a>
+  <a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vue.js&logoColor=white" /></a>
 </p>
 
 ### Databases & Cloud
@@ -47,6 +48,9 @@ Full-Stack Web Developer specializing in **Django** and **React.js**, building *
   <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" /></a>
   <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white" /></a>
   <a href="https://render.com/"><img alt="Render" src="https://img.shields.io/badge/Render-%2300CFFF.svg?logo=render&logoColor=white" /></a>
+  <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" /></a>
+  <a href="https://cpanel.com/"><img alt="cPanel" src="https://img.shields.io/badge/cPanel-%23FF6C37.svg?logo=cpanel&logoColor=white" /></a>
 </p>
 
 ---
@@ -65,8 +69,9 @@ Full-Stack Web Developer specializing in **Django** and **React.js**, building *
   <a href="https://shaznuz.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website" /></a>
   <a href="mailto:shaznuz.com@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/bonyaminshaznuz/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/shaznuzontheway/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook" /></a>
+  <a href="https://www.facebook.com/bonyshaznuz/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook" /></a>
   <a href="https://instagram.com/bonyaminshaznuz"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" /></a>
+  <a href="https://github.com/bonyaminshaznuz"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" /></a>
 </p>
 
 ---
