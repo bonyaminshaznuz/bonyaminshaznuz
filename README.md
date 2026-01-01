@@ -85,9 +85,12 @@ Full-Stack Web Developer with strong expertise in Django and practical experienc
   &emsp;
 </p>
 
-## 🍃 Github Stats
+## 🍃 GitHub Stats
 
-![Kazi Bony Amin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonyaminshaznuz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bonyaminshaznuz&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonyaminshaznuz&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 🍃 Let's Connect
 
