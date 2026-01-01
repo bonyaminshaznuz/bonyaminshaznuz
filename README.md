@@ -77,4 +77,13 @@ Full-Stack Web Developer specializing in **Django** and **React.js**, building *
 ---
 
 *Credit: [Kazi Bony Amin](https://shaznuz.com/)*  
-*Last Updated: 21/09/2024*
+
+<p>Last Updated: <span id="last-updated"></span></p>
+
+<script>
+  const today = new Date();
+  const formatted = today.getDate().toString().padStart(2,'0') + '/' +
+                    (today.getMonth()+1).toString().padStart(2,'0') + '/' +
+                    today.getFullYear();
+  document.getElementById('last-updated').textContent = formatted;
+</script>
