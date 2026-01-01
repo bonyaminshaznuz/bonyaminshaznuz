@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_URL.jpg" alt="MasterHead" width="100%" style="border-radius:0;" />
+  <img src="https://react.shaznuz.com/image/pp.jpg" alt="MasterHead" width="100%" style="border-radius:0;" />
 </p>
 
 <h1 align="center">
