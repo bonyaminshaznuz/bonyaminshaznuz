@@ -42,11 +42,15 @@ Full-Stack Web Developer specializing in **Django** and **React.js**, building *
   <a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vue.js&logoColor=white" /></a>
 </p>
 
-### Databases & Cloud
+### Databases
 <p align="left">
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" /></a>
   <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" /></a>
   <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white" /></a>
+</p>
+
+### Cloud & Hosting
+<p align="left">
   <a href="https://render.com/"><img alt="Render" src="https://img.shields.io/badge/Render-%2300CFFF.svg?logo=render&logoColor=white" /></a>
   <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" /></a>
@@ -78,4 +82,4 @@ Full-Stack Web Developer specializing in **Django** and **React.js**, building *
 
 *Credit: [Kazi Bony Amin](https://shaznuz.com/)*  
 
-![Last Commit](https://img.shields.io/github/last-commit/bonyaminshaznuz/bonyaminshaznuz?color=blue&style=flat)
+**<p>Last Updated: 01/01/2026</p>**
