@@ -53,8 +53,8 @@ Full-Stack Web Developer specializing in **Django** and **React.js**, building *
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bonyaminshaznuz&layout=compact&theme=dark" alt="Top Languages" width="400"/>
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bonyaminshaznuz&layout=compact&theme=dark" alt="Top Languages" width="300"/>
 </p>
 
 ---
