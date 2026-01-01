@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://shaznuz.com/image/pp.jpg](https://shaznuz.com/media/static/image/558952247_122105313141028958_2408617648169604988_n.jpg)" alt="MasterHead" />
+  <img src="https://shaznuz.com/image/pp.jpg](https://shaznuz.com/media/static/image/558952247_122105313141028958_2408617648169604988_n.jpg" alt="MasterHead" />
 </p>
 
 <h1 align="center">
