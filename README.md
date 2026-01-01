@@ -54,8 +54,7 @@ Full-Stack Web Developer with expertise in **Django**, **React.js**, and modern 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bonyaminshaznuz&show_icons=true&count_private=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonyaminshaznuz&layout=compact&theme=react&hide_border=true" width="48%" />
+  (https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bonyaminshaznuz&layout=compact&theme=dark)
 </p>
 
 <p align="center">
