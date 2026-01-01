@@ -85,11 +85,19 @@ Full-Stack Web Developer with strong expertise in Django and practical experienc
   &emsp;
 </p>
 
-## 🍃 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Contribution Calendar -->
-  [<img src="https://activity-graph.herokuapp.com/graph?username=bonyaminshaznuz&theme=react-dark&area=true" alt="GitHub Activity Graph" />](https://github.com/bonyaminshaznuz/github-readme-stats?tab=readme-ov-file#language-stats-algorithm.)
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bonyaminshaznuz&show_icons=true&count_private=true&theme=react&hide_border=true" width="48%" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonyaminshaznuz&layout=compact&theme=react&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Contribution Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=bonyaminshaznuz&theme=react-dark&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ## 🍃 Let's Connect
