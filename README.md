@@ -88,7 +88,7 @@ Full-Stack Web Developer with strong expertise in Django and practical experienc
 ## 🍃 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bonyaminshaznuz&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bonyaminshaznuz&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonyaminshaznuz&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
 </p>
 
